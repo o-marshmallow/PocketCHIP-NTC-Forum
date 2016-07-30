@@ -1,0 +1,38 @@
+body{
+    font-size:11px;
+}
+#site-logo{
+    max-height: 25px;
+    height: 25px;
+    width: 25px;
+    margin-top: -10px;
+}
+.avatar {
+    max-height: 25px;
+    max-width: 25px;
+    height: 25px;
+    width: 25px;
+    padding-top: 5px;
+}
+.panel.clearfix {
+    margin-top: -15px;
+}
+.d-header{
+    max-height: 30px;
+    height: 30px;
+}
+#reply-control{
+    max-height: 223px;
+    height: 223px;
+}
+.bootbox.modal{
+    top: 125% !important;
+    left: 75% !important;
+    max-width: 380px;
+    width: 380px !important;
+}
+a.widget-link.logout {
+    margin-top: -57px;
+    max-height: 15px;
+    height: 15px;
+}
