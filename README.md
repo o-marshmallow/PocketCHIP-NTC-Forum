@@ -1,6 +1,6 @@
 #NTC's forum on PocketCHIP
 
-This project lets you browse (NTC's forum)[https://bbs.nextthing.co] directly on the PocketCHIP with surf.
+This project lets you browse [NTC's forum](https://bbs.nextthing.co) directly on the PocketCHIP with surf.
 
 ## How does it work ?
 You only need to downlaod the CSS stylesheet and launch the command :
